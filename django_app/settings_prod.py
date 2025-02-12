@@ -6,4 +6,5 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     # 주소 넣기(http랑 슬래시 지우고)
+    'eb-django-app-env.eba-fz43szeq.ap-northeast-2.elasticbeanstalk.com',
 ]
